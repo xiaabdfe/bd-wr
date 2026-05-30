@@ -1,16 +1,16 @@
 {
   "sites": [
     {
-      "name": "Bill Hunt",
-      "url": "https://billhunt.dev/",
-      "author": "Bill Hunt <hello@billhunt.email>",
-      "rss": "https://billhunt.dev/feed.xml"
+      "name": "janyew.love",
+      "url": "https://janyew.love/",
+      "author": "xiaa <hello@janyew.love>",
+      "rss": "https://janyew.love/rss"
     },
     {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
+      "name": "vanie",
+      "url": "https://ringabel.love/",
+      "author": "vanie <vanie@chibimonki.com>",
+      "rss": "https://ringabel.love/feed.xml"
     }
   ]
 }
